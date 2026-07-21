@@ -1,16 +1,65 @@
-# React + Vite
+# Full Stack Open
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tämä repositorio sisältää tekemäni harjoitukset ja tehtäväratkaisut
+Helsingin yliopiston avoimen yliopiston Full Stack Open -kurssilta.
 
-Currently, two official plugins are available:
+Repositorio toimii oppimisprojektina, jossa hyödynnän kurssilla opittavia
+moderneja web-sovelluskehityksen tekniikoita ja kehitän osaamistani
+vaiheittain Full Stack -kehityksen eri osa-alueilla.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Kurssin sisältö
 
-## React Compiler
+Full Stack Open käsittelee nykyaikaista JavaScript-pohjaista
+web-sovelluskehitystä. Kurssilla rakennetaan erityisesti Reactilla
+toteutettuja käyttöliittymiä sekä opetellaan yhdistämään niitä
+Node.js-palveluihin ja tietokantoihin.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Keskeisiä aiheita:
 
-## Expanding the ESLint configuration
+- React ja komponenttipohjainen käyttöliittymäkehitys
+- JavaScript
+- propsit ja komponenttien välinen tiedonsiirto
+- tilanhallinta
+- Node.js ja Express
+- REST API:t
+- tietokannat
+- testaus
+- GraphQL
+- TypeScript
+- sovellusten julkaiseminen
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+# Osa 1: Reactin perusteet
+
+Käsiteltyjä aiheita:
+
+- React-komponentit
+- komponenttien jakaminen pienempiin kokonaisuuksiin
+- propsit ja tiedon välittäminen komponenttien välillä
+- komponenttien uudelleenkäyttö
+- JavaScript-oliot ja taulukot
+- sovelluksen refaktorointi
+- datan rakenteen suunnittelu React-sovelluksessa
+
+Toteutettuja harjoituksia:
+
+- Kurssitiedot-sovellus
+- komponenttien käyttäminen ja rakentaminen
+- datan siirtäminen propsien avulla
+- sovelluksen rakenteen kehittäminen vaiheittain
+
+## Käytetyt teknologiat
+
+- React
+- JavaScript
+- Vite
+- Git
+- GitHub
+
+## Projektin eteneminen
+
+Repositorio päivittyy kurssin etenemisen ja uusien tehtäväratkaisujen valmistumisen mukaan.
+
+Myöhemmissä osissa mukaan tulevat muun muassa backend-kehitys,
+rajapinnat, tietokannat sekä muut Full Stack -kehityksen osa-alueet.
